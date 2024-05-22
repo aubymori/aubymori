@@ -1,3 +1,5 @@
+![twilight](twilight.gif)
+
 Hi, I'm Aubrey! ![She/They](https://img.shields.io/badge/%E2%99%80-she%2Fthey-blueviolet)
 
 I mainly do projects that aim to bring back the old look/feel of applications and websites.
