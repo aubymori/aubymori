@@ -1,3 +1,5 @@
+![Mutsumi](mutsumi.gif)
+
 Hi, I'm Aubrey!
 
 I mainly do projects that aim to bring back the old look/feel of applications and websites.
